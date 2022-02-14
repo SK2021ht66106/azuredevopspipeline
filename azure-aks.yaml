@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: mypythondockerrepo
-        image: acrtest243275.azurecr.io/sk2021ht66106/mypythondockerrepo
+        image: acrtest243275.azurecr.io/sk2021ht66106/azuredevopspipeline
         ports:
         - containerPort: 5000
 # service type loadbalancer       
